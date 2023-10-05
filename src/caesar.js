@@ -21,10 +21,11 @@ const caesarModule = (function () {
       if (!lookUp.includes(input[i])) {
         result += input[i];
       } else {
+       // lookup index location
         const lookUpIndex = lookUp.indexOf(input[i]);
-
+       // add to shift
         let shiftedIndex = lookUpIndex + shift;
-
+      // wrap around from end and start
         if (shiftedIndex >= 26) {
           shiftedIndex -= 26;
         } else if (shiftedIndex < 0) {
