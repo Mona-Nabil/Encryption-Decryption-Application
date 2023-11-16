@@ -17,7 +17,8 @@ HTML
 
 ## Example of using the Caesar Shift to encode a message
 
-![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/raw/main/assets/134805506/1b77701c-3696-48f7-aba5-36809f3cba86.png)
+![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/3b234fb3-aefa-4883-8485-4108e8845e7c)
+
 
 
 
