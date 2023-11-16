@@ -32,9 +32,9 @@ HTML
   ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/f9c84bdf-aead-45a6-9763-764a20980646)
 
   Example of using the Substitution Cipher to encode a message:
-    ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/4bb47e03-bbe8-47b7-9acb-3727f40dfd43)
+    ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/6d4dd84c-e042-40f5-9b22-22e48ec55313)
 
  Example of using the Substitution Cipher to decode a message:
-   ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/d0d953c8-efc5-4092-adcc-76b13115d6bf)
+   ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/1a710de4-6440-4be8-9867-4d20253201ac)
 
 
