@@ -15,19 +15,23 @@ HTML
 
 ## Screenshots:
 
-# Example of using the Caesar Shift to encode a message:
+ Example of using the Caesar Shift to encode a message:
 
 ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/3b234fb3-aefa-4883-8485-4108e8845e7c)
 
-# Example of using the Caesar Shift to decode a message:
+ Example of using the Caesar Shift to decode a message:
 
 ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/b96f72c1-fa29-439f-94c6-7f0a24f7bef1)
 
-# Example of using the Polybius Square to encode a message:
+ Example of using the Polybius Square to encode a message:
 
 ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/fa9a6ea8-98f0-49b6-a609-d661fb6e2fb6)
 
+  Example of using the Polybius Square to decode a message:
 
+  ![Example](ttps://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/f9c84bdf-aead-45a6-9763-764a20980646)
 
+  Example of using the Substitution Cipher to encode a message:
+    ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/d9d85959-1dc3-496b-8995-2ef396050034)
 
 
