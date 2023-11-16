@@ -25,7 +25,7 @@ HTML
 
  Example of using the Polybius Square to encode a message:
 
-![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/fa9a6ea8-98f0-49b6-a609-d661fb6e2fb6)
+![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/5e8c883c-4917-4f33-ab95-7d3bfca3ed3d)
 
   Example of using the Polybius Square to decode a message:
 
