@@ -21,7 +21,7 @@ HTML
 
 # Example of using the Caesar Shift to decode a message:
 
-![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/e3c73926-3cc1-43f3-a41e-3ec4439a2831)
+![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/b96f72c1-fa29-439f-94c6-7f0a24f7bef1)
 
 
 
