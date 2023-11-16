@@ -29,9 +29,12 @@ HTML
 
   Example of using the Polybius Square to decode a message:
 
-  ![Example](ttps://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/f9c84bdf-aead-45a6-9763-764a20980646)
+  ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/f9c84bdf-aead-45a6-9763-764a20980646)
 
   Example of using the Substitution Cipher to encode a message:
-    ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/d9d85959-1dc3-496b-8995-2ef396050034)
+    ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/4bb47e03-bbe8-47b7-9acb-3727f40dfd43)
+
+ Example of using the Substitution Cipher to decode a message:
+   ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/d0d953c8-efc5-4092-adcc-76b13115d6bf)
 
 
