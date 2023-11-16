@@ -23,6 +23,10 @@ HTML
 
 ![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/b96f72c1-fa29-439f-94c6-7f0a24f7bef1)
 
+# Example of using the Polybius Square to encode a message:
+
+![Example](https://github.com/Mona-Nabil/Encryption-Decryption-Application/assets/134805506/fa9a6ea8-98f0-49b6-a609-d661fb6e2fb6)
+
 
 
 
